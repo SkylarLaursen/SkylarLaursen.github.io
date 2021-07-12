@@ -1,0 +1,20 @@
+---
+output: 
+  html_document:
+    theme: sandstone
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center> <h1>**Journal Articles**</h1> </center>
+
+## Forthcoming  
+ 
+
+## Published
+
+**Laursen, S.J.**, & Fiacconi, C.M. (2021). Examining the effect of list composition on monitoring and control processes in metamemory. *Memory & Cognition, 49*(3), 498-517. https://doi.org/10.3758/s13421-020-01107-4
+
+Fiacconi, C.M, Mitton, E.E., **Laursen, S.J.**, & Skinner, J. (2020). Isolating the contribution of perceptual fluency to judgments of learning (JOLs): evidence for reactivity in measuring the influence of fluency. *Journal of Experimental Psychology: Learning, Memory, & Cognition, 46*(5), 926-944. https://doi.org/10.1037/xlm0000766
