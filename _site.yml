@@ -4,8 +4,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-      left:
+    - text: "Research Interests"
+      href: research.html
     - text: "Publications"
+      href: publications.html
+    - text: "Conference Presentations"
+      href: presentations.html
+
       
 
 output:
