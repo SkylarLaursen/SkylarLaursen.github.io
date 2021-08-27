@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center> <h1>**Conference Posters**</h1> </center>
 
-**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (Submitted 2021). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format. Submitted to the Psychonomic Society Annual Meeting, New Orleans, LA. (virtual).
+**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (Accepted 2021). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format. Psychonomic Society Annual Meeting, New Orleans, LA. (virtual).
 
 **Laursen, S.J.**, & Fiacconi, C.M. (2021). Is there a hidden cost to restudy? McMaster Conference on Education & Cognition, Jul. 2021, Hamilton, ON. (virtual).
 

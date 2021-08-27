@@ -10,8 +10,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center> <h1>**Journal Articles**</h1> </center>
 
+## In Prep
+
+**Laursen, S.J.**, Sluka, D., & Fiacconi, C.M. (in prep). Examining adaptations in study time allocation and re-study selection as a function of expected test format: Do individuals make advantageous decisions?
+
+**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (in prep). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format.
+
+&nbsp;  
+
+## Submitted
+
+&nbsp;  
+
 ## Forthcoming  
- 
+
+**Laursen, S.J.**, & Fiacconi, C.M. (Accepted 2021). Constraints on the use of the memorizing effort heuristic. *Metacognition and Learning*
+
+&nbsp;  
 
 ## Published
 
