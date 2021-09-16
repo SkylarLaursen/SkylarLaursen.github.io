@@ -12,13 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## In Prep
 
-**Laursen, S.J.**, Sluka, D., & Fiacconi, C.M. (in prep). Examining adaptations in study time allocation and re-study selection as a function of expected test format: Do individuals make advantageous decisions?
-
 **Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (in prep). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format.
 
 &nbsp;  
 
 ## Submitted
+
+**Laursen, S.J.**, Sluka, D., & Fiacconi, C.M. (Submitted 2021). Examining adaptations in study time allocation and re-study selection as a function of expected test format: Do individuals make advantageous decisions?
 
 &nbsp;  
 
