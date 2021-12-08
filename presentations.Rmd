@@ -23,7 +23,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center> <h1>**Conference Posters**</h1> </center>
 
-**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (Accepted 2021). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format. Psychonomic Society Annual Meeting, New Orleans, LA. (virtual).
+**Laursen, S.J.**, & Fiacconi, C.M. (Submitted 2022). Is selecting items for restudy a form of cognitive offloading? Submitted to Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
+
+Aronowitz, D., **Laursen, S. J.**, Fiacconi, C.M. (Submitted 2022). The relationship between perceptual fluency and judgments of learning. Submitted to Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
+
+Farrell, B., **Laursen, S.J.**, Fiacconi, C.M. (Submitted 2022). Does restudying entail a hidden cost for non-restudied information? Submitted to Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
+
+**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (2021). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format. Psychonomic Society Annual Meeting, New Orleans, LA. (virtual).
 
 **Laursen, S.J.**, & Fiacconi, C.M. (2021). Is there a hidden cost to restudy? McMaster Conference on Education & Cognition, Jul. 2021, Hamilton, ON. (virtual).
 

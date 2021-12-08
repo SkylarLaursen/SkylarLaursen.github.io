@@ -18,17 +18,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Submitted
 
-**Laursen, S.J.**, Sluka, D., & Fiacconi, C.M. (Submitted 2021). Examining adaptations in study time allocation and re-study selection as a function of expected test format: Do individuals make advantageous decisions?
+
 
 &nbsp;  
 
 ## Forthcoming  
 
-**Laursen, S.J.**, & Fiacconi, C.M. (Accepted 2021). Constraints on the use of the memorizing effort heuristic. *Metacognition and Learning*
+
 
 &nbsp;  
 
 ## Published
+
+**Laursen, S.J.**, & Fiacconi, C.M. (Accepted 2021). Constraints on the use of the memorizing effort heuristic. *Metacognition and Learning* https://rdcu.be/cCwtK
 
 **Laursen, S.J.**, & Fiacconi, C.M. (2021). Examining the effect of list composition on monitoring and control processes in metamemory. *Memory & Cognition, 49*(3), 498-517. https://doi.org/10.3758/s13421-020-01107-4
 
