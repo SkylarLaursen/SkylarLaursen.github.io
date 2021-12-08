@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Laursen, S.J.**, & Fiacconi, C.M. (Submitted 2022). Is selecting items for restudy a form of cognitive offloading? Submitted to Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
 
-Aronowitz, D., **Laursen, S. J.**, Fiacconi, C.M. (Submitted 2022). The relationship between perceptual fluency and judgments of learning. Submitted to Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
+Aronowitz, D., **Laursen, S.J.**, Fiacconi, C.M. (Submitted 2022). The relationship between perceptual fluency and judgments of learning. Submitted to Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
 
 Farrell, B., **Laursen, S.J.**, Fiacconi, C.M. (Submitted 2022). Does restudying entail a hidden cost for non-restudied information? Submitted to Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
 
