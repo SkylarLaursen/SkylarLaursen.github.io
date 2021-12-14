@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Published
 
-**Laursen, S.J.**, & Fiacconi, C.M. (Accepted 2021). Constraints on the use of the memorizing effort heuristic. *Metacognition and Learning* https://rdcu.be/cCwtK
+**Laursen, S.J.**, & Fiacconi, C.M. (2021). Constraints on the use of the memorizing effort heuristic. *Metacognition and Learning* https://rdcu.be/cCwtK
 
 **Laursen, S.J.**, & Fiacconi, C.M. (2021). Examining the effect of list composition on monitoring and control processes in metamemory. *Memory & Cognition, 49*(3), 498-517. https://doi.org/10.3758/s13421-020-01107-4
 
