@@ -10,6 +10,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center> <h1>**Conference Talks**</h1> </center>
 
+**Laursen, S.J.**, & Fiacconi, C.M. (submitted). Probing the effect of perceptual (dis)fluency: It’s all relative. Canadian Society for Brain Behaviour and Cognitive Science (CSBBCS), Jul. 2022, Halifax, NS.
+
+**Laursen, S.J.**, & Fiacconi, C.M. (accepted). Does restudying entail a hidden cost for non-restudied information: A real-world application of the list strength effect. Toronto Area Memory Group (TAMeG), May 2022, Toronto, ON.
+
+**Laursen, S.J.**, Powers, E., & Fiacconi, C.M. (2022). Investigating performance related cue dominance when predicting future memory. University of Guelph Interdisciplinary Psychology Graduate Symposium, Apr. 2022, Guelph, ON (virtual).
+
+**Laursen, S.J.** (2022). Overcoming the limitations of traditional inferential statistics using a linear mixed-effect modelling approach. Hidden Methods Conference, Apr. 2022, University of Alberta, AB (virtual).
+
 **Laursen, S.J.**, & Fiacconi, C.M. (2021). Does restudying impair memory for non-restudied information. Canadian Society for Brain Behaviour and Cognitive Science (CSBBCS), Jun. 2021, Montreal, QC. (virtual).
 
 **Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (2021). Examining the influence of expected test format on the mnemonic impact and frequency of off-task thoughts/mind-wandering. University of Guelph Neuroscience Day, May. 2021, Guelph, ON. (virtual).
@@ -23,11 +31,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center> <h1>**Conference Posters**</h1> </center>
 
-**Laursen, S.J.**, & Fiacconi, C.M. (Submitted 2022). Is selecting items for restudy a form of cognitive offloading? Submitted to Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
+**Laursen, S.J**., & Fiacconi, C.M. (submitted). Assessing the effort invested when selecting items for restudy: Is there a role for cognitive offloading? Canadian Society for Brain Behaviour and Cognitive Science (CSBBCS), Jul. 2022, Halifax, NS.
 
-Aronowitz, D., **Laursen, S.J.**, Fiacconi, C.M. (Submitted 2022). The relationship between perceptual fluency and judgments of learning. Submitted to Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
-
-Farrell, B., **Laursen, S.J.**, Fiacconi, C.M. (Submitted 2022). Does restudying entail a hidden cost for non-restudied information? Submitted to Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
+**Laursen, S. J.**, Wammes, J.D., & Fiacconi, C.M. (2022). Examining the tendency to mind wander when preparing for different test formats and how this impacts future memory performance. University of Guelph Neuroscience Day, May 2022, Guelph, ON.
 
 **Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (2021). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format. Psychonomic Society Annual Meeting, New Orleans, LA. (virtual).
 
