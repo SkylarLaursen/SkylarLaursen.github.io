@@ -12,9 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## In Prep
 
+**Laursen, S. J.**, Fiacconi, C. M. (in Prep). Probing the effect of perceptual (dis)fluency on judgments of learning: It’s all relative.
+
 **Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (in prep). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format.
 
-**Laursen, S.J.**, Farrell, B., & Fiacconi, C.M. (in prep). Does restudying entail a hidden cost for non-restudied information: A real-world application of the list strength effect.
+**Laursen, S.J.**, Farrell, B., & Fiacconi, C.M. (in prep). Does restudying entail a hidden cost for non-restudied information? Exploring the list strength effect in self-guided learning.
 
 **Laursen, S.J.**, & Fiacconi, C.M. (in prep). Examining adaptations in study time allocation and restudy selection as a function of expected test format.
 
