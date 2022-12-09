@@ -12,11 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## In Prep
 
-**Laursen, S. J.**, Fiacconi, C. M. (in Prep). Probing the effect of perceptual (dis)fluency on judgments of learning: It’s all relative.
-
-**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (in prep). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format.
-
-**Laursen, S.J.**, Farrell, B., & Fiacconi, C.M. (in prep). Does restudying entail a hidden cost for non-restudied information? Exploring the list strength effect in self-guided learning.
+**Laursen, S.J.**, Fiacconi, C.M. (in prep). Probing the effect of perceptual (dis)fluency on judgments of learning: It’s all relative.
 
 **Laursen, S.J.**, & Fiacconi, C.M. (in prep). Examining adaptations in study time allocation and restudy selection as a function of expected test format.
 
@@ -25,6 +21,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Submitted
 
+**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (Submitted). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format.
+
+**Laursen, S.J.**, Farrell, B.C.T., & Fiacconi, C.M. (Submitted). Does restudying entail a hidden cost for non-restudied information? Exploring the list strength effect in self-guided learning.
 
 
 &nbsp;  
@@ -37,7 +36,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Published
 
-**Laursen, S.J.**, & Fiacconi, C.M. (2021). Constraints on the use of the memorizing effort heuristic. *Metacognition and Learning* https://rdcu.be/cCwtK
+**Laursen, S.J.**, & Fiacconi, C.M. (2021). Constraints on the use of the memorizing effort heuristic. *Metacognition and Learning, 17*(1), 1-51. https://rdcu.be/cCwtK
 
 **Laursen, S.J.**, & Fiacconi, C.M. (2021). Examining the effect of list composition on monitoring and control processes in metamemory. *Memory & Cognition, 49*(3), 498-517. https://doi.org/10.3758/s13421-020-01107-4
 
