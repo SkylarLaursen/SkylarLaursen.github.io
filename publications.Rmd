@@ -21,9 +21,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Submitted
 
-**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (Submitted). Examining the mnemonic impact and frequency of off-task thoughts/mind-wandering as a function of expected test format.
+**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (Submitted). Examining the effect of expected test format and test difficulty on the frequency and mnemonic costs of mind wandering  .
 
-**Laursen, S.J.**, Farrell, B.C.T., & Fiacconi, C.M. (Submitted). Does restudying entail a hidden cost for non-restudied information? Exploring the list strength effect in self-guided learning.
+**Laursen, S.J.**, Farrell, B.C.T., & Fiacconi, C.M. (Submitted). On the cost and benefits of restudying: Exploring the list strength effect in self-guided learning.
 
 
 &nbsp;  
