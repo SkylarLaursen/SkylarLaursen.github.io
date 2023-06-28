@@ -9,6 +9,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <center> <h1>**Conference Talks**</h1> </center>
+**Laursen, S.J.**, & Fiacconi, C.M. (Accepted). Metacognitive reactivity following restudy decisions: Does what you decide impact future memory? Canadian Society for Brain Behaviour and Cognitive Science (CSBBCS), Jul. 2023, Guelph, ON.
+
+**Laursen, S.J.**, Wammes, J.D., Fiacconi, C.M. (2023). Examining the effect of expected test format and test difficulty on the frequency and mnemonic costs of mind wandering. University of Guelph Neuroscience Day, May 2023 Guelph, ON.
+
+**Laursen, S.J.**, & Fiacconi, C.M. (2023). Becoming fluent overnight: Long-lasting effects of perceptual fluency on metamemory judgments. University of Guelph Interdisciplinary Psychology Graduate Symposium, Apr. 2023, Guelph, ON.
+
 <img align="left" width="300" height="200" alt="text" src="BBCS2022talk.jpg">
 &nbsp;  **Laursen, S.J.**, & Fiacconi, C.M. (2022). Probing the effect of perceptual (dis)fluency: It’s all relative. Canadian Society for Brain Behaviour and Cognitive Science (CSBBCS), Jul. 2022, Halifax, NS. (pictured left)
 &nbsp;  
@@ -42,7 +48,22 @@ DiMarco, D., **Laursen, S.J.**, & Fiacconi, C.M. (2022). Can we learn from our m
 
 <center> <h1>**Conference Posters**</h1> </center>
 
-**Laursen, S.J.**, & Fiacconi, C.M. (submitted). Becoming fluent overnight. Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
+**Laursen, S.J.**, Undorf, M., & Fiacconi, C.M. (Submitted). Performance-based cues dominate metamemory judgments. Psychonomic Society Annual Meeting, Nov. 2023, San Francisco, CA.
+ 
+**Laursen, S.J.**, Sluka, D., & Fiacconi, C.M. (Accepted). Examining adaptations in study time allocation and restudy selection as a function of expected test format. Canadian Society for Brain Behaviour and Cognitive Science (CSBBCS), Jul. 2023, Guelph, ON.
+
+<img align="left" width="250" height="200" alt="text" src="LOVE2023_Poster.jpeg">
+&nbsp;  
+&nbsp; **Laursen, S.J.** & Fiacconi, C.M. (2023). Becoming fluent overnight. Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON. (pictured left)
+
+&nbsp; Powers, E., **Laursen, S.J.**, Undorf, M., & Fiacconi, C.M. (2023). Influence of performance-related cues on metacognitive judgments. Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
+ 
+&nbsp; Kazatchkova, A., **Laursen, S.J**., Fiacconi, C.M. (2023). Becoming famous through distraction: Mind wandering and the false fame effect. Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
+
+&nbsp; 
+
+Churey, K.R., **Laursen, S.J.**, Pun,J., Fiacconi, C.M. (2023). Examining the influence of metacognitive judgments on recall dynamics. Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2022, Niagara Falls, ON.
+
 <img align="right" width="300" height="200" alt="text" src="PSYC2022.jpg">
 &nbsp;  
 **Laursen, S.J.**, Farrell, B., & Fiacconi, C.M. (2022). Does restudying impair memory for non-restudied information? A real world application of the list strength effect. Psychonomic Society Annual Meeting, Nov. 2022, Boston, MA. *Graduate Coference Award* (pictured right) [see poster here](PSYC2022_poster.pdf)

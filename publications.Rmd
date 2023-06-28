@@ -12,25 +12,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## In Prep
 
-**Laursen, S.J.**, Fiacconi, C.M. (in prep). Probing the effect of perceptual (dis)fluency on judgments of learning: It’s all relative.
 
-**Laursen, S.J.**, & Fiacconi, C.M. (in prep). Examining adaptations in study time allocation and restudy selection as a function of expected test format.
 
 
 &nbsp;  
 
 ## Submitted
 
-**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (Submitted). Examining the effect of expected test format and test difficulty on the frequency and mnemonic costs of mind wandering  .
+**Laursen, S.J.**, Fiacconi, C.M. (In Revision). Probing the effect of perceptual (dis)fluency on metacognitive judgments.
 
-**Laursen, S.J.**, Farrell, B.C.T., & Fiacconi, C.M. (Submitted). On the cost and benefits of restudying: Exploring the list strength effect in self-guided learning.
+**Laursen, S.J.**, & Fiacconi, C.M. (Submitted). Examining adaptations in study time allocation and restudy selection as a function of expected test format.
+
+**Laursen, S.J.**, Farrell, B.C.T., & Fiacconi, C.M. (In Revision). On the cost and benefits of restudying: Exploring the list strength effect in self-guided learning.
 
 
 &nbsp;  
 
 ## Forthcoming  
 
-
+**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (In Press). Examining the effect of expected test format and test difficulty on the frequency and mnemonic costs of mind wandering. *Quarterly Journal of Experimental Psychology*
 
 &nbsp;  
 
