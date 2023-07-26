@@ -9,7 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <center> <h1>**Conference Talks**</h1> </center>
-**Laursen, S.J.**, & Fiacconi, C.M. (Accepted). Metacognitive reactivity following restudy decisions: Does what you decide impact future memory? Canadian Society for Brain Behaviour and Cognitive Science (CSBBCS), Jul. 2023, Guelph, ON.
+
+**Laursen, S.J.**, & Fiacconi, C.M. (2023). Metacognitive reactivity following restudy decisions: Does what you decide impact future memory? Canadian Society for Brain Behaviour and Cognitive Science (CSBBCS), Jul. 2023, Guelph, ON.
 
 **Laursen, S.J.**, Wammes, J.D., Fiacconi, C.M. (2023). Examining the effect of expected test format and test difficulty on the frequency and mnemonic costs of mind wandering. University of Guelph Neuroscience Day, May 2023 Guelph, ON.
 
@@ -48,9 +49,9 @@ DiMarco, D., **Laursen, S.J.**, & Fiacconi, C.M. (2022). Can we learn from our m
 
 <center> <h1>**Conference Posters**</h1> </center>
 
-**Laursen, S.J.**, Undorf, M., & Fiacconi, C.M. (Submitted). Performance-based cues dominate metamemory judgments. Psychonomic Society Annual Meeting, Nov. 2023, San Francisco, CA.
+**Laursen, S.J.**, Undorf, M., & Fiacconi, C.M. (Accepted). Performance-based cues dominate metamemory judgments. Psychonomic Society Annual Meeting, Nov. 2023, San Francisco, CA.
  
-**Laursen, S.J.**, Sluka, D., & Fiacconi, C.M. (Accepted). Examining adaptations in study time allocation and restudy selection as a function of expected test format. Canadian Society for Brain Behaviour and Cognitive Science (CSBBCS), Jul. 2023, Guelph, ON.
+**Laursen, S.J.**, Sluka, D., & Fiacconi, C.M. (2023). Examining adaptations in study time allocation and restudy selection as a function of expected test format. Canadian Society for Brain Behaviour and Cognitive Science (CSBBCS), Jul. 2023, Guelph, ON.
 
 <img align="left" width="250" height="200" alt="text" src="LOVE2023_Poster.jpeg">
 &nbsp;  
