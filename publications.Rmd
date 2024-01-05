@@ -12,29 +12,31 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## In Prep
 
-
-
+Dimarco, D., **Laursen, S.J.**, & Fiacconi, C. M. (In Prep). Examining design effects in errorful generation.
 
 &nbsp;  
 
 ## Submitted
 
-**Laursen, S.J.**, Fiacconi, C.M. (In Revision). Probing the effect of perceptual (dis)fluency on metacognitive judgments.
+Churey, K.R., **Laursen, S.J.**, & Fiacconi, C.M. (In Revision). Re-examining metamemory reactivity through the lens of the item-order account.
 
-**Laursen, S.J.**, & Fiacconi, C.M. (Submitted). Examining adaptations in study time allocation and restudy selection as a function of expected test format.
-
-**Laursen, S.J.**, Farrell, B.C.T., & Fiacconi, C.M. (In Revision). On the cost and benefits of restudying: Exploring the list strength effect in self-guided learning.
+**Laursen, S.J.**, Fiacconi, C.M. (Revision Submitted). Probing the effect of perceptual (dis)fluency on metacognitive judgments.
 
 
 &nbsp;  
 
 ## Forthcoming  
 
-**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (In Press). Examining the effect of expected test format and test difficulty on the frequency and mnemonic costs of mind wandering. *Quarterly Journal of Experimental Psychology*
+**Laursen, S.J.**, & Fiacconi, C.M. (Accepted). Examining adaptations in study time allocation and restudy selection as a function of expected test format. *Metacognition and Learning*
+
+**Laursen, S.J.**, Farrell, B.C.T., & Fiacconi, C.M. (Accepted). On the cost and benefits of restudying: Exploring the list strength effect in self-guided learning. *Memory*
+
 
 &nbsp;  
 
 ## Published
+
+**Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (2023). Examining the effect of expected test format and test difficulty on the frequency and mnemonic costs of mind wandering. *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218231187892 
 
 **Laursen, S.J.**, & Fiacconi, C.M. (2021). Constraints on the use of the memorizing effort heuristic. *Metacognition and Learning, 17*(1), 1-51. https://rdcu.be/cCwtK
 
