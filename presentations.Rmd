@@ -3,10 +3,13 @@ output:
   html_document:
     theme: sandstone
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+<center> <h1>**Invited Talks**</h1> </center>
+
+**Laursen, S.J.** (2024). Examining adaptations in study time allocation and restudy selection as a function of expected test format. Southern Society for Philosophy and Psychology (SSPP), Mar. 2024, Cincinnati, OH.
 
 <center> <h1>**Conference Talks**</h1> </center>
 
@@ -51,7 +54,7 @@ DiMarco, D., **Laursen, S.J.**, & Fiacconi, C.M. (2022). Can we learn from our m
 
 <center> <h1>**Conference Posters**</h1> </center>
 
-**Laursen, S.J.** & Fiacconi, C. M. (Submitted). Decision-driven Metacognitive Reactivity: Does what you decide impact future memory. Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2024, Niagara Falls, ON.
+**Laursen, S.J.** & Fiacconi, C. M. (2024). Decision-driven metacognitive reactivity: Does what you decide impact future memory. Lake Ontario Visionary Establishment (L.O.V.E), Feb. 2024, Niagara Falls, ON.
 
 **Laursen, S.J.**, Undorf, M., & Fiacconi, C.M. (2023). Performance-based cues dominate metamemory judgments. Psychonomic Society Annual Meeting, Nov. 2023, San Francisco, CA.
  

@@ -3,7 +3,6 @@ output:
   html_document:
     theme: sandstone
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -12,7 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## In Prep
 
-Dimarco, D., **Laursen, S.J.**, & Fiacconi, C. M. (In Prep). Examining design effects in errorful generation.
+Dimarco, D., **Laursen, S.J.**, & Fiacconi, C.M. (In Prep). Examining design effects in errorful generation.
+
+**Laursen, S.J.**, & Fiacconi, C.M. (In Prep). Becoming fluent overnight: Long-lasting effects of perceptual fluency on metamemory judgments
+
+**Laursen, S.J.**, Powers, E., Undorf, M., & Fiacconi, C.M. (In Prep). Performance cues dominate metamemory judgments.
+
+**Laursen, S.J.**, & Risko, E.F. (In Prep). Examining the nuances of metacognitive control and their interpretation in learning.
 
 &nbsp;  
 
@@ -20,21 +25,20 @@ Dimarco, D., **Laursen, S.J.**, & Fiacconi, C. M. (In Prep). Examining design ef
 
 Churey, K.R., **Laursen, S.J.**, & Fiacconi, C.M. (In Revision). Re-examining metamemory reactivity through the lens of the item-order account.
 
-**Laursen, S.J.**, Fiacconi, C.M. (Revision Submitted). Probing the effect of perceptual (dis)fluency on metacognitive judgments.
-
-
 &nbsp;  
 
 ## Forthcoming  
-
-**Laursen, S.J.**, & Fiacconi, C.M. (Accepted). Examining adaptations in study time allocation and restudy selection as a function of expected test format. *Metacognition and Learning*
-
-**Laursen, S.J.**, Farrell, B.C.T., & Fiacconi, C.M. (Accepted). On the cost and benefits of restudying: Exploring the list strength effect in self-guided learning. *Memory*
 
 
 &nbsp;  
 
 ## Published
+
+**Laursen, S.J.**, Fiacconi, C.M. (2024). Probing the effect of perceptual (dis)fluency on metacognitive judgments. *Memory & Cognition*
+
+**Laursen, S.J.**, & Fiacconi, C.M. (2024). Examining adaptations in study time allocation and restudy selection as a function of expected test format. *Metacognition and Learning*. https://doi.org/10.1007/s11409-024-09373-2
+
+**Laursen, S.J.**, Farrell, B.C.T., & Fiacconi, C.M. (2024). On the cost and benefits of restudying: Exploring the list strength effect in self-guided learning. *Memory, 32*(2), 197-222.
 
 **Laursen, S.J.**, Wammes, J.D., & Fiacconi, C.M. (2023). Examining the effect of expected test format and test difficulty on the frequency and mnemonic costs of mind wandering. *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218231187892 
 
