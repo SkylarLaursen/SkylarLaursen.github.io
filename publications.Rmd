@@ -7,23 +7,23 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 <center> <h1>**Journal Articles**</h1> </center>
 
 ## In Prep
 
-Dimarco, D., **Laursen, S.J.**, & Fiacconi, C.M. (In Prep). Examining design effects in errorful generation.
-
-**Laursen, S.J.**, & Fiacconi, C.M. (In Prep). Becoming fluent overnight: Long-lasting effects of perceptual fluency on metamemory judgments
-
-**Laursen, S.J.**, Powers, E., Undorf, M., & Fiacconi, C.M. (In Prep). Performance cues dominate metamemory judgments.
-
-**Laursen, S.J.**, & Risko, E.F. (In Prep). Examining the nuances of metacognitive control and their interpretation in learning.
+**Laursen, S.J.**, Fiacconi, C.M. (In prep). Retrieval outcomes predict restudy decision efficacy.
 
 &nbsp;  
 
 ## Submitted
 
-Churey, K.R., **Laursen, S.J.**, & Fiacconi, C.M. (In Revision). Re-examining metamemory reactivity through the lens of the item-order account.
+**Laursen, S.J.**, Powers, E., Undorf, M., & Fiacconi, C.M. (In Revision). On the importance of performance-based cues in meatcognitive monitoring.
+
+**Laursen, S.J.**, & Risko, E.F. (Submitted). Varieties of metacognitive control: Study time and restudy decisions are not equivalent
 
 &nbsp;  
 
@@ -34,9 +34,15 @@ Churey, K.R., **Laursen, S.J.**, & Fiacconi, C.M. (In Revision). Re-examining me
 
 ## Published
 
-**Laursen, S.J.**, Fiacconi, C.M. (2024). Probing the effect of perceptual (dis)fluency on metacognitive judgments. *Memory & Cognition*
+Churey, K.R., **Laursen, S.J.**, & Fiacconi, C.M. (2025). Do metamemory judgments impair relational encoding? *Metacognition and Learning*
 
-**Laursen, S.J.**, & Fiacconi, C.M. (2024). Examining adaptations in study time allocation and restudy selection as a function of expected test format. *Metacognition and Learning*. https://doi.org/10.1007/s11409-024-09373-2
+**Laursen, S.J.**, & Fiacconi, C.M. (2025). Becoming fluent overnight: Long-lasting influences of perceptual learning on metamemory judgments. *Canadian Journal of Experimental Psychology*
+
+Dimarco, D., **Laursen, S.J.**, Churey, K.R., & Fiacconi, C.M. (2025). Examining the influence of list composition on the mnemonic benefit of errorful generation. *Memory, 33*(2), 145 - 156. https://doi.org/10.1080/09658211.2024.2413159
+
+**Laursen, S.J.**, Fiacconi, C.M. (2024). Probing the effect of perceptual (dis)fluency on metacognitive judgments. *Memory & Cognition, 52*(6), 1275 - 1298.
+
+**Laursen, S.J.**, Sluka, D., & Fiacconi, C.M. (2024). Examining adaptations in study time allocation and restudy selection as a function of expected test format. *Metacognition and Learning*. https://doi.org/10.1007/s11409-024-09373-2
 
 **Laursen, S.J.**, Farrell, B.C.T., & Fiacconi, C.M. (2024). On the cost and benefits of restudying: Exploring the list strength effect in self-guided learning. *Memory, 32*(2), 197-222.
 
