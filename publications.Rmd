@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
 
 <center> <h1>**Journal Articles**</h1> </center>
 
