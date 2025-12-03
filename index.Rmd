@@ -9,17 +9,27 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-**Skylar J. Laursen** is a Ph.D candidate enrolled in the Neuroscience and Applied Cognitive Science program in the [Department of Psychology](https://www.uoguelph.ca/psychology/) at the [University of Guelph](https://www.uoguelph.ca) (located in Guelph, Ontario, Canada). I am completing my thesis in the [Guelph Memory and Cognition Lab](https://fiacconi-lab.uoguelph.ca) under the supervision of [Dr. Chris Fiacconi](https://www.uoguelph.ca/psychology/users/chris-fiacconi). Broadly, my research is focused on the interaction between metacognitive monitoring and control of learning. 
+I am a Postdoctoral Fellow jointly at the [University of Waterloo](https://uwaterloo.ca/) and the [University of Ottawa](https://www.uottawa.ca/en), working with Dr. Evan Risko, Dr. Colin MacLeod, and Dr. Erin Maloney. My research focuses on metacognitive processes in learning and memory - examining how individuals monitor and regulate their cognition to enhance understanding and performance. I am deeply passionate about advancing knowledge in this area and translating these insights into practical strategies for education and lifelong learning. Equally committed to teaching and mentoring, I strive to create engaging, evidence-based learning environments that empower students to think critically and develop metacognitive skills.
 
-During the Fall 2023 semester I completed a practicum under the supervision of [Dr. Evan Risko](https://uwaterloo.ca/psychology/profiles/evan-f-risko) at the [University of Waterloo](https://uwaterloo.ca/), focused on the differential influence of list composition on different metacognitive control strategies.
+&nbsp;
 
-During my Masters degree I also completed a practicum under the supervision of [Dr. Harvey Marmurek](https://www.uoguelph.ca/psychology/users/harvey-marmurek) at the University of Guelph, focused on test-potentiated new learning.
+I am a pround three-time alumna of the [University of Guelph](https://www.uoguelph.ca), where I earned: 
 
-I am a University of Guelph alumna (B.Sc. Honours Psychology: Brain and Cognition 2019, minors in Neuroscience, and Criminal Justice and Public Policy & M.Sc. Psychology 2021). I completed both my undergraduate and Master's theses at the Guelph Memory and Cognition Lab under the supervision of Dr. Chris Fiacconi. My Bachelor’s research focus was on the [contribution of perceptual fluency to judgments of learning](https://doi.org/10.1037/xlm0000766), and my Master's research explored how expected test format influences learners' metacognitive control (in press).
+* a B.Sc. in Psychology: Brain and Cognition (with minors in Neuroscience and Criminal Justice and Public Policy) - [Read part of my undergraduate thesis here](https://psycnet.apa.org/fulltext/2019-57344-001.pdf)
+
+* an M.Sc. in Psychology - [Read my master's thesis here](https://atrium.lib.uoguelph.ca/items/02ffe335-a8ac-47fe-9530-9b4f0c74d392) | [View published version](https://rdcu.be/dxuam)
+
+* a Ph.D. in Psychology with a Neuroscience Collaboration - [Read my doctoral disseration here](https://atrium.lib.uoguelph.ca/items/332f23ff-4b24-4b00-81ac-f42c4da17713) | [Published Chapter 1](https://rdcu.be/dAUqS)|[Published Chapter 2](https://psycnet.apa.org/fulltext/2026-13772-001.pdf)
+
+&nbsp;
+
+Thank you for visiting - I invite you to explore my research and teaching philosophy further.
+
+&nbsp;
 
 You can find my full CV [here](CV.pdf).
 
 &nbsp;
 
-<img align="left" width="300" height="300" src="Skylar_Laursen.jpg"> <img align="right" width="300" height="300" src="guelph.jpg">
+<img align="left" width="500" height="350" src="Skylar Laursen.JPG">
 
