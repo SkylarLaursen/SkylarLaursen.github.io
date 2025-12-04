@@ -1,0 +1,24 @@
+---
+title: 
+output: 
+  html_document:
+    theme: sandstone
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+<center> <h1>**Teaching Philosophy**</h1> </center>
+
+
