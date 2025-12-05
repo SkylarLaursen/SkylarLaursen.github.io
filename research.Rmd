@@ -8,4 +8,26 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Research
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+<center> <h1>**Research Interests**</h1> </center>
+
+My research explores the intricate relationship between metacognitive monitoring and control - the processes that allow learners to evaluate their own knowledge and regulate their study behaviors. I am fascinated by how these processes interact and how they can be optimized to improve learning outcomes. Across my work, I aim to uncover the cognitive cues that guide these judgments and decisions, and to identify strategies that promote effective self-regulated learning.
+
+
+<center> <h2>**Metacognitive Monitoring**</h2> </center>
+
+A central theme in my research is understanding how learners form judgments about their own learning and memory. In one line of research focused on these monitoring processes, I conducted multiple projects examining the role of processing fluency — the ease with which information is processed — in shaping judgments of learning (JOLs). For example, one series of experiments investigated whether fluency operates in an experience-based manner, revealing that fluency can bias learners' monitoring judgments even without conscious awareness ([read the full publication here](https://psycnet.apa.org/fulltext/2019-57344-001.pdf)). In follow-up work, I showed that the driving force behind this effect often lies in disfluent items, which decrease learners' perceptions of future memory performance relative to baseline ([read the full publication here](https://rdcu.be/dAUqS)). I also found that the impact of fluency is remarkably persistent, with perceptual learning producing long-lasting changes in metamemory judgments that endure well beyond the initial learning episode ([read the full publication here](https://psycnet.apa.org/fulltext/2026-13772-001.pdf)). Furthermore, my research demonstrates that subtle forms of fluency can be overshadowed by more salient, performance-based cues, suggesting that learners prioritize certain types of information when forming metacognitive judgments. Together, these findings highlight the complexity of monitoring processes and the interplay between multiple cues in shaping learners’ self-assessments.
+
+Another project explored the memorizing effort heuristic, showing that learners often misinterpret effort as a signal of better memory, even when this assumption is incorrect.
+
+Beyond fluency, I have examined how list composition and relational encoding influence monitoring accuracy. In one project, I tested whether metamemory judgments interfere with relational encoding, finding that monitoring can sometimes impair deeper processing. I have also investigated cue reactivity, asking whether predicting future memory performance changes how learners encode information. Most recently, my work has explored the long-lasting effects of perceptual learning on metamemory judgments, demonstrating that brief exposure to perceptual changes can alter monitoring for extended periods. Collectively, these studies highlight the complexity of monitoring and the diverse cues learners rely on when evaluating their knowledge.

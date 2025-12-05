@@ -13,8 +13,8 @@
 
 <title>research.knit</title>
 
-<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -170,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -179,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -232,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -246,6 +247,9 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="research.html">Research Interests</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching Philosophy</a>
 </li>
 <li>
   <a href="publications.html">Publications</a>
@@ -269,7 +273,21 @@ $(document).ready(function () {
 </div>
 
 
-<p>Research</p>
+<p>               </p>
+<center>
+<h1>
+<strong>Research Interests</strong>
+</h1>
+</center>
+<p>My research explores the intricate relationship between metacognitive monitoring and control - the processes that allow learners to evaluate their own knowledge and regulate their study behaviors. I am fascinated by how these processes interact and how they can be optimized to improve learning outcomes. Across my work, I aim to uncover the cognitive cues that guide these judgments and decisions, and to identify strategies that promote effective self-regulated learning.</p>
+<center>
+<h2>
+<strong>Metacognitive Monitoring</strong>
+</h2>
+</center>
+<p>A central theme in my research is understanding how learners form judgments about their own learning and memory. In one line of research focused on these monitoring processes, I conducted multiple projects examining the role of processing fluency — the ease with which information is processed — in shaping judgments of learning (JOLs). For example, one series of experiments investigated whether fluency operates in an experience-based manner, revealing that fluency can bias learners’ monitoring judgments even without conscious awareness (<a href="https://psycnet.apa.org/fulltext/2019-57344-001.pdf">read the full publication here</a>). In follow-up work, I showed that the driving force behind this effect often lies in disfluent items, which decrease learners’ perceptions of future memory performance relative to baseline (<a href="https://rdcu.be/dAUqS">read the full publication here</a>). I also found that the impact of fluency is remarkably persistent, with perceptual learning producing long-lasting changes in metamemory judgments that endure well beyond the initial learning episode (<a href="https://psycnet.apa.org/fulltext/2026-13772-001.pdf">read the full publication here</a>). Furthermore, my research demonstrates that subtle forms of fluency can be overshadowed by more salient, performance-based cues, suggesting that learners prioritize certain types of information when forming metacognitive judgments. Together, these findings highlight the complexity of monitoring processes and the interplay between multiple cues in shaping learners’ self-assessments.</p>
+<p>Another project explored the memorizing effort heuristic, showing that learners often misinterpret effort as a signal of better memory, even when this assumption is incorrect.</p>
+<p>Beyond fluency, I have examined how list composition and relational encoding influence monitoring accuracy. In one project, I tested whether metamemory judgments interfere with relational encoding, finding that monitoring can sometimes impair deeper processing. I have also investigated cue reactivity, asking whether predicting future memory performance changes how learners encode information. Most recently, my work has explored the long-lasting effects of perceptual learning on metamemory judgments, demonstrating that brief exposure to perceptual changes can alter monitoring for extended periods. Collectively, these studies highlight the complexity of monitoring and the diverse cues learners rely on when evaluating their knowledge.</p>
 
 
 
